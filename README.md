@@ -22,9 +22,11 @@ ___
 > [Реализация](https://github.com/shlyapik228/bmstu_oop/tree/master/lab_02)
 ___
 
-> :white_check_mark: **Лр #3 "Программа просмотра каркасной модели на ООП"** 
+> :white_check_mark: **Лр #3 "Программа просмотра каркасной модели на ООП"**
 >
-> 1-я лаба, только на ООП
+> step 1: 1-я лаба
+> 
+> step 2: только на ООП :trollface:
 >
 > [Реализация](https://www.youtube.com/watch?v=bwD8G3a86p8)
 ___
